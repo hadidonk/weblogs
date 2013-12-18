@@ -1,0 +1,18 @@
+{
+  "name": "weblogs",
+  "description": "Simple Parser for Published Weblog Lists on Weblogs.com",
+  "main": "index.js",
+  "version": "1.0.0",
+  "devDependencies": {
+    "cheerio": "*",
+    "request": "*"
+  },
+  "author": "Matthew Lagace <matthewlagace@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mlagace/weblogs.git"
+  },
+  "bugs": {
+    "url": "http://github.com/mlagace/weblogs/issues"
+  }
+}
