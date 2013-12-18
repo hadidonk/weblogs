@@ -3,10 +3,11 @@
   "description": "Simple Parser for Published Weblog Lists on Weblogs.com",
   "main": "index.js",
   "version": "1.0.0",
-  "devDependencies": {
+  "dependencies": {
     "cheerio": "*",
     "request": "*"
   },
+  "license": "MIT",
   "author": "Matthew Lagace <matthewlagace@gmail.com>",
   "repository": {
     "type": "git",
